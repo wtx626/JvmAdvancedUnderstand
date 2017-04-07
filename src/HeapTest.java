@@ -1,9 +1,11 @@
 /**
  * Created by wutianxiong on 2017/3/11.
  */
-
 public class HeapTest {
     public static void main(String[] args) {
+
+
+        //System.out.println("qiuyueTest");
         //堆内存测试
 //        List<OomObj> list=new ArrayList<>();
 //        while (true){
