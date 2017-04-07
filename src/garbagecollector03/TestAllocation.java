@@ -1,6 +1,4 @@
-package garbigecollector;
-
-import static garbigecollector.JvmUtils._1MB;
+package garbagecollector03;
 
 /**
  * Created by wutianxiong on 2017/3/25.
