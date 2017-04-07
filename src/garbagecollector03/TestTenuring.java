@@ -5,6 +5,7 @@ package garbagecollector03;
  */
 public class TestTenuring {
     public static void main(String[] args) {
+        System.out.println();
         byte[] allocation1,allocation2,allocation3,allocation4;
         allocation1=new byte[JvmUtils._1MB/4];
         allocation2=new byte[JvmUtils._1MB/4];
