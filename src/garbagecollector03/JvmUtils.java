@@ -1,4 +1,4 @@
-package garbigecollector;
+package garbagecollector03;
 
 /**
  * Created by wutianxiong on 2017/3/29.
